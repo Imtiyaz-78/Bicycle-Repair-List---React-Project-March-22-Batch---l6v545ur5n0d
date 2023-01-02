@@ -59,5 +59,3 @@ export const editTask = ({ id, owner, model, description }) => {
     },
   };
 };
-Footer
-© 2022 GitHub, Inc.
